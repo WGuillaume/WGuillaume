@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wguillaume&label=Profile%20views&color=0e75b6&style=flat" alt="wguillaume" /> </p>
 
+[![Thank - readme-generator](https://img.shields.io/badge/Thank-readme--generator-2ea44f)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+[![Thank - Badge Generator](https://img.shields.io/badge/Thank-Badge_Generator-2ea44f)](https://michaelcurrin.github.io/badge-generator/#/generic)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
