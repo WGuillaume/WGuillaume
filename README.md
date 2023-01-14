@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, bienvenue sur mon GitHuB </h1>
 <h3 align="center">A passionate frontend developer from french</h3>
-Here are some ideas to get you started:
+
 
 - 🔭 Je m'appelle Guillaume, Actuellement en étude Bac+3 (CCI formation - Concepteur Développeur d'Application)
 
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Thank - readme-generator](https://img.shields.io/badge/Thank-readme--generator-2ea44f)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 [![Thank - Badge Generator](https://img.shields.io/badge/Thank-Badge_Generator-2ea44f)](https://michaelcurrin.github.io/badge-generator/#/generic)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
