@@ -5,7 +5,7 @@
 
 - 🔭 Je m'appelle Guillaume, Actuellement en étude Bac+3 (CCI formation - Concepteur Développeur d'Application).
 
-- 🌱 Actuellement je suis en plein apprentissage de la programmation orienter objet, mon profil et orienter backend..
+- 🌱 Actuellement je suis en plein apprentissage de la programmation orienter objet, mon profil et orienter backend.
 
 - 👨‍🎓 De formation admin système et réseau j'ai découvert univers incroyable la programmation.
 
