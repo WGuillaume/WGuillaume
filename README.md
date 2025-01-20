@@ -1,60 +1,38 @@
-<h1 align="center">Bonjour 👋, bienvenue sur mon GitHuB </h1>
-<h3 align="center">A passionate backend developer from France</h3>
-<br>
+<h1 align="center">Bienvenue sur mon GitHub 👋</h1>
+<h3 align="center">Data Scientist & Développeur Passionné</h3>
 
+---
 
-- 🔭 Je m'appelle Guillaume, Actuellement en étude Bac+3 (CCI formation - Concepteur Développeur d'Application).
+### 🌟 À propos de moi :
 
-- 🌱 Actuellement je suis en plein apprentissage de la programmation orienter objet, mon profil est orienter backend.
-
-- 👨‍🎓 De formation admin système et réseau j'ai découvert univers incroyable la programmation.
-
+- 🎓 **Diplômé Master Data Scientist** (IDMC Nancy, 2024)
+- 🎓 Bachelor Concepteur Développeur d'Application - CCI EESC, Laxou (2023)
 - 🎁 J'aime ce métier car j'apprends, découvre, trouve des solutions, réfléchis sur des thématiques.
 
-- 💼 CV & Projets sur mon portfolio :<a href="https://wguillaume.github.io/Portfolio/">Portfolio</a>
+---
 
-- 📫 Vous pouvez me contacter par email :<a href="mailto:guillaume.weidmann@gmail.com">guillaume.weidmann@gmail.com</a>
+### 🌐 Mon Portfolio & CV :
 
-- 📝 Une liste d'outils que j'apprécie :Notion ,Discord ,StudySmarter.
+- 🌍 Découvrez mon portfolio en ligne : [Portfolio Guillaume](https://wguillaume.github.io/Portfolio/)  
 
-- ⚡ Sur mon GitHub vous trouverez des projets qui mon permit de maitrisés des compétences.
+---
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wguillaume&label=Profile%20views&color=0e75b6&style=flat" alt="wguillaume" /> </p>
+### 🔧 Compétences Techniques :
 
-[![Thank - readme-generator](https://img.shields.io/badge/Thank-readme--generator-2ea44f)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-[![Thank - Badge Generator](https://img.shields.io/badge/Thank-Badge_Generator-2ea44f)](https://michaelcurrin.github.io/badge-generator/#/generic)
+#### **Langages :**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<p align="left">
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p> 
-
-
-<h3 align="left">Statistiques:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wguillaume&show_icons=true&locale=en&layout=compact" alt="wguillaume" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wguillaume&show_icons=true&locale=en" alt="wguillaume" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wguillaume&" alt="wguillaume" /></p>
-
-
-<!--
-**WGuillaume/WGuillaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+#### **Frameworks & Outils :**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
