@@ -9,11 +9,6 @@
 - 🎓 Bachelor Concepteur Développeur d'Application - CCI EESC, Laxou (2023)
 - 🎁 J'aime ce métier car j'apprends, découvre, trouve des solutions, réfléchis sur des thématiques.
 
----
-
-### 🌐 Mon Portfolio & CV :
-
-- 🌍 Découvrez mon portfolio en ligne : [Portfolio Guillaume](https://wguillaume.github.io/Portfolio/)  
 
 ---
 
